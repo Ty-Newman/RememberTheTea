@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "time-value": "^1.1.0"
+    
   },
   "devDependencies": {},
   "scripts": {
