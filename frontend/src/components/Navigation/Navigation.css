@@ -1,0 +1,26 @@
+#nav-bar{
+    background-color: rgb(204, 60, 3);
+    margin: 0;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    list-style-type: none;
+}
+#nav-links{
+    padding-right: 1em;
+}
+#nav-links a{
+    padding-right: 0.5em;
+    padding-left: 0.2em;
+    border-left: black solid 3px;
+    color: #f2f2f2;
+    text-transform: uppercase;
+    letter-spacing: .09em;
+    border-radius: 2px;
+    text-decoration: none;
+}
+#nav-links a:active{
+    border-left: #f2f2f2 solid 3px;
+    color: black;
+}
